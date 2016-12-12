@@ -1,0 +1,36 @@
+{
+  "name": "extract-licenses-webpack-plugin",
+  "description": "Webpack plugin to extract licenses of bundled modules",
+  "version": "1.0.0",
+  "author": {
+    "name": "Masayuki IZUMI",
+    "email": "masayuki@izumin.info",
+    "url": "https://github.com/izumin5210"
+  },
+  "bugs": {
+    "url": "https://github.com/izumin5210/extract-licenses-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/izumin5210/extract-licenses-webpack-plugin#readme",
+  "keywords": [
+    "license",
+    "webpack"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "http://izumin.mit-license.org/2015"
+  },
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izumin5210/extract-licenses-webpack-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.0",
+    "mocha": "^3.2.0",
+    "power-assert": "^1.4.2",
+    "webpack": "^1.14.0"
+  }
+}
